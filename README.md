@@ -1,6 +1,8 @@
 # bill_split_app
 
-A new Flutter project.
+<img src="assets/screenshot/screenshot_1.png"/>
+<img src="assets/screenshot/screenshot_2.png"/>
+<img src="assets/screenshot/screenshot_3.png"/>
 
 ## Getting Started
 
