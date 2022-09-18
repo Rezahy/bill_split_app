@@ -1,8 +1,9 @@
 # bill_split_app
-
+<div style="float:left">
 <img src="assets/screenshot/screenshot_1.png" width="200"/>
 <img src="assets/screenshot/screenshot_2.png" width="200"/>
 <img src="assets/screenshot/screenshot_3.png" width="200"/>
+</div>
 
 ## Getting Started
 
