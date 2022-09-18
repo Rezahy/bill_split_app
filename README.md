@@ -1,8 +1,8 @@
 # bill_split_app
 
-<img src="assets/screenshot/screenshot_1.png"/>
-<img src="assets/screenshot/screenshot_2.png"/>
-<img src="assets/screenshot/screenshot_3.png"/>
+<img src="assets/screenshot/screenshot_1.png" width="200"/>
+<img src="assets/screenshot/screenshot_2.png" width="200"/>
+<img src="assets/screenshot/screenshot_3.png" width="200"/>
 
 ## Getting Started
 
